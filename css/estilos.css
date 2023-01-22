@@ -1,6 +1,13 @@
 /* esta es lapagina de estilos sobre la que haremos cambios */
 
 body{
-  color: black;
-  background-color: lavender;
+  color: olivedrab;
+  max-width: 960px;
+  margin: auto;
+  background-image: url(git-and-github.png);
+
+}
+
+.fondo{
+  color: darkred;
 }
