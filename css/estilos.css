@@ -3,11 +3,13 @@
 body{
   color: olivedrab;
   max-width: 960px;
+  background-image: url("C:/Users/seida/Desktop/2T_EED_SidatSuarezGarcia/git-and-github.png");
+  position: center center;
   margin: auto;
-  background-image: url(git-and-github.png);
-
 }
 
 .fondo{
+  size: landscape;
   color: darkred;
+
 }
